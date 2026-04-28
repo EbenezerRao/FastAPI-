@@ -1,0 +1,11 @@
+# Ignore all Python virtual environments in ALL sub-folders
+**/venv/
+**/.venv/
+**/env/
+
+# Ignore all Python cache files in ALL sub-folders
+**/__pycache__/
+**/*.pyc
+
+# Ignore all environment variable files in ALL sub-folders
+**/.env
