@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Neo",
+        "skill": "Python",
+        "id": 1
+    },
+    {
+        "name": "Trinity",
+        "skill": "FastAPI",
+        "id": 2
+    }
+]
