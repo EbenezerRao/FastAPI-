@@ -1,0 +1,50 @@
+[
+    {
+        "team_name": "AppBuilders",
+        "tech_stack": "React Native",
+        "score": 90,
+        "id": 1
+    },
+    {
+        "team_name": "FastCoders",
+        "tech_stack": "FastAPI",
+        "score": 85,
+        "id": 2
+    },
+    {
+        "team_name": "AppBuilders",
+        "tech_stack": "React Native",
+        "score": 70,
+        "id": 3
+    },
+    {
+        "team_name": "FastCoders",
+        "tech_stack": "FastAPI",
+        "score": 85,
+        "id": 4
+    },
+    {
+        "team_name": "AppBuilders",
+        "tech_stack": "React Native",
+        "score": 70,
+        "id": 5
+    },
+    {
+        "team_name": "FastCoders",
+        "tech_stack": "FastAPI",
+        "score": 85,
+        "id": 6
+    },
+    {
+        "team_name": "AppBuilders",
+        "tech_stack": "React Native",
+        "score": 70,
+        "id": 7
+    },
+    {
+        "team_name": "FastCoders",
+        "tech_stack": "FastAPI",
+        "score": 85,
+        "id": 8
+    }
+]
