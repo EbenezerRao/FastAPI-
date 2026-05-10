@@ -8,5 +8,15 @@
         "name": "Trinity",
         "skill": "FastAPI",
         "id": 2
+    },
+    {
+        "name": "Neo",
+        "skill": "Python",
+        "id": 3
+    },
+    {
+        "name": "Trinity",
+        "skill": "FastAPI",
+        "id": 4
     }
 ]
